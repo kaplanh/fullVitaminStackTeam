@@ -9,7 +9,7 @@
 | [props-drilling](https://react.dev/learn#sharing-data-between-components)               |                                   | [Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/) |
 | [Bootstrap](https://getbootstrap.com/)                                                  | npm i bootstrap                   | [Visit me on Linkedin](https://www.linkedin.com/in/kaplan-h/)                    |
 | [Semantic-Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) |                                   |                                                                                  |
-| Deploy with [Netlify](https://vercel.com/kaplanhs-projects)                             |                                   |                                                                                  |
+| Deploy with [Vercel](https://vercel.com/kaplanhs-projects)                              |                                   |                                                                                  |
 
 ---
 
